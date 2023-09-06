@@ -8,7 +8,7 @@ int main()
     int age;
     
     std::cin >> age;  // input
-    std::cout << age << std::endl;  // output
+    std::cout << age << std::endl;   // output
 
     return 0;
 }
